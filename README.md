@@ -81,6 +81,10 @@
   <strong>📧 Liên hệ với mình tại Email: <a href="mailto:ngotanloi2424@gmail.com" target="_top">ngotanloi2424@gmail.com</a></strong>
 </p>
 
+<p>
+  <strong>📧 Portfolio của mình: <a href="http://ngotanloidev.somee.com/" target="_top">http://ngotanloidev.com/</a></strong>
+</p>
+
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
