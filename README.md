@@ -82,11 +82,7 @@
 </p>
 
 <p>
-  <strong>📧 Portfolio 1 của mình: <a href="http://ngotanloidev.somee.com/" target="_top">http://ngotanloidev.com/</a></strong>
-</p>
-
-<p>
-  <strong>📧 Portfolio 2 của mình: <a href="https://ngotanloi.000webhostapp.com/" target="_top">https://ngotanloi.000webhostapp.com/</a></strong>
+  <strong>📧 Portfolio của mình: <a href="https://ngotanloi.000webhostapp.com/" target="_top">https://ngotanloi.000webhostapp.com/</a></strong>
 </p>
 
 <br>
