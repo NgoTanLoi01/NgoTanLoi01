@@ -82,8 +82,9 @@
 </p>
 
 <p>
-  <strong>📧 Portfolio của mình: <a href="http://www.ngotanloidev.x10.mx/" target="_top">http://www.ngotanloidev.x10.mx/</a></strong>
+  <strong>📧 Portfolio của mình: <a href="https://ngotanloi01.github.io/" target="_top">ngotanloi</a></strong>
 </p>
+
 
 
 <br>
