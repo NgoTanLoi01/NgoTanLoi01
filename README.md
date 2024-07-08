@@ -61,21 +61,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
 
-  <a href="https://www.facebook.com/profile.php?id=100028156951467" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ngotanloi-facebook" />
-  </a>
-  </a>
-  <a href="mailto:ngotanloi2424@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ngotanloi-email" />
-  </a>
-</div>
-
-<br>
 
 <p>
   <strong>📧 Liên hệ với mình tại Email: <a href="mailto:ngotanloi2424@gmail.com" target="_top">ngotanloi2424@gmail.com</a></strong>
