@@ -88,8 +88,15 @@
 
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/ngotanloi-quotes.svg" width="846" height="150" alt="ngotanloi-official" />
-</a>
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+  ---
+  #### <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="60"> <em><b>Always up for a chat about and geeking out on all things tech!</b>💻<3</em>
+
+  ![](https://komarev.com/ghpvc/?username=s-shemmee&color=blueviolet)
+
+</div>
