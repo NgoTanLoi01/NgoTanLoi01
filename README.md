@@ -1,8 +1,3 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/ngotanloi.svg" width="1200" alt="NgoTanLoi01" />
-</a>
-
 <h2 align="center">🛠 Technologies 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
