@@ -67,7 +67,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
   ---
 <em><b>Always up for a chat about and geeking out on all things tech!</b>💻</em>
