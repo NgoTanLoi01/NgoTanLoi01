@@ -53,11 +53,11 @@
 
 
 <p>
-  <strong>📧 Liên hệ với mình tại Email: <a href="mailto:ngotanloi2424@gmail.com" target="_top">ngotanloi2424@gmail.com</a></strong>
+  <strong>📧 Contact me via Email: <a href="mailto:ngotanloi2424@gmail.com" target="_top">ngotanloi2424@gmail.com</a></strong>
 </p>
 
 <p>
-  <strong>📧 Portfolio của mình: <a href="https://ngotanloi01.github.io/" target="_top">ngotanloi</a></strong>
+  <strong>📧 My portfolio: <a href="https://ngotanloi01.github.io/" target="_top">ngotanloi</a></strong>
 </p>
 
 
