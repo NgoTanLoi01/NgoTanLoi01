@@ -17,8 +17,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQLServer-282C34?logo=sqlserver-282C34" alt="SQLServer" title="SQLServer" height="25" /></span>
-&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
